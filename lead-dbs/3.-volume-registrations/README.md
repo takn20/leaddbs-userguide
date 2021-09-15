@@ -35,8 +35,6 @@ After loading the patient directory and choosing the imaging technique \(see **S
 
 When available, _Lead-DBS_ also gives you the option of normalizing fiber tracking images into MNI space. For processing of these images, the option `[] Normalize Fibers` under the `Lead-Connectome` panel should be checked.
 
-## Brain Shift Correction
-
 
 
 

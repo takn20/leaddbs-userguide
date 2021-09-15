@@ -20,7 +20,7 @@
   * [Brain shift Correction](lead-dbs/3.-volume-registrations/brain-shift-correction.md)
   * [Checking the Coregistrations and Normalizations](lead-dbs/3.-volume-registrations/checking-the-coregistrations-and-normalizations.md)
   * [Refine Atlas Fit?](lead-dbs/3.-volume-registrations/refine-atlas-fit.md)
-* [4. Surface Reconstruction \(optional\)](lead-dbs/4.-surface-reconstruction-optional.md)
+* [4. Surface Reconstruction \(optional\)?](lead-dbs/4.-surface-reconstruction-optional.md)
 * [5. Reconstruction of electrode trajectories \(optional\)](lead-dbs/5.-reconstruction-of-electrode-trajectories-optional/README.md)
   * [Manual Correction of Electrode Localization](lead-dbs/5.-reconstruction-of-electrode-trajectories-optional/manual-correction-of-electrode-localization.md)
   * [How are reconstructions stored?](lead-dbs/5.-reconstruction-of-electrode-trajectories-optional/how-are-reconstructions-stored.md)
