@@ -29,7 +29,7 @@
     * [Automatic Algorithm](lead-dbs/5.-reconstruction-of-electrode-trajectories-optional/orientation-of-directional-leads/automatic-algorithm.md)
     * [Possible Problems with the Automatic Algorithm](lead-dbs/5.-reconstruction-of-electrode-trajectories-optional/orientation-of-directional-leads/possible-problems-with-the-automatic-algorithm.md)
     * [User-Assisted Algorithm \(Manual Refine\)](lead-dbs/5.-reconstruction-of-electrode-trajectories-optional/orientation-of-directional-leads/user-assisted-algorithm-manual-refine.md)
-* [6. Connectivity analyses \(optional\)](lead-dbs/6.-connectivity-analyses-optional.md)
+* [6. Connectivity analyses \(optional\)?](lead-dbs/6.-connectivity-analyses-optional.md)
 * [7. Visualization](lead-dbs/7.-visualization/README.md)
   * [Reconstruction Statistics](lead-dbs/7.-visualization/reconstruction-statistics.md)
 
